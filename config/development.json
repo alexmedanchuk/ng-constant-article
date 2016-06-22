@@ -1,0 +1,8 @@
+{
+  "ENV" : {
+    "APIEndpoint": "http://localhost:8000",
+    "SomeAppKey": "somedevappkey",
+    "AnotherAppKey": "anotherdevappkey",
+    "EnvName": "development"
+  }
+}

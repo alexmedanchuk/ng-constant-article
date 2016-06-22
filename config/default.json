@@ -1,0 +1,6 @@
+{
+  "ENV" : {
+    "CommonConstant": "commonconstantforenvironments",
+    "AnotherCommonConstant": "anothercommonconstantforenvironments"
+  }
+}

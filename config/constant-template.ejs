@@ -1,0 +1,5 @@
+/**** DO NOT MODIFY DIRECLTY - THIS FILE IS AUTO GENERATED ***/
+angular.module('{%- moduleName %}', [])
+{% constants.forEach(function (constant) { %}
+.constant('{%- constant.name %}', {%= constant.value %})
+{% }); %};

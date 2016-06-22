@@ -1,0 +1,8 @@
+{
+  "ENV" : {
+    "APIEndpoint": "http://our-production-api",
+    "SomeAppKey": "someprodappkey",
+    "AnotherAppKey": "anotherprodappkey",
+    "EnvName": "production"
+  }
+}
